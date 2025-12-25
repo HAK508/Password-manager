@@ -1,0 +1,1 @@
+A browser-based password manager built with HTML, CSS, and JavaScript. It allows users to securely store, view, copy, and delete credentials using localStorage. Passwords are masked in the UI, with controlled clipboard copying, serving as a foundation for future encryption and security enhancements.
